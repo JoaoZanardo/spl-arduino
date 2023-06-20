@@ -6,7 +6,7 @@ const int pin2 = 4;
 const int pin3 = 3;
 const int pin4 = 2;
 
-AccelStepper motor(AccelStepper::FULL4WIRE, pinoBobina1, pinoBobina3, pinoBobina2, pinoBobina4);
+AccelStepper motor(AccelStepper::FULL4WIRE, pin1, pin3, pin, pin4);
 
 #define TRIGGER_PIN1 11
 #define ECHO_PIN1 10
