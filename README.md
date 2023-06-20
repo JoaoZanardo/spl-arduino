@@ -93,4 +93,4 @@ void close() {
 
 Essas são funções auxiliares para abrir e fechar o estacionamento. Elas são chamadas quando comandos específicos são recebidos pela porta serial.
 
-Esse código é apenas uma parte de um projeto maior e faz parte de um sistema mais complexo de controle de estacionamento. Para obter mais detalhes e contexto sobre o projeto, é recomendável verificar o repositório completo do código-fonte, que pode ser encontrado [aqui](https://github.com/JoaoZanardo/SPL).
+**Esse código é apenas uma parte de um projeto maior e faz parte de um sistema mais complexo de controle de estacionamento. Para obter mais detalhes e contexto sobre o projeto, é recomendável verificar o repositório completo do código-fonte, que pode ser encontrado [aqui](https://github.com/JoaoZanardo/SPL).**
